@@ -1,10 +1,10 @@
 ---
 title: "About"
-permalink: "/about/"
+permalink: " "
 layout: page
 ---
 
-## About
+
 Black Diamond Enterprises Fitness Center is a hardcore gym in LA for physique and strength training. 
 
 We utilize progressive overload and evidence-based training to maximize your aesthetic potential to create a lean, strong, and toned physique.
